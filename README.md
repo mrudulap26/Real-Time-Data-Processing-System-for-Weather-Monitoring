@@ -1,64 +1,59 @@
-# Weather Data Retrieval and Analysis System
+Here’s an enhanced and beautified version of your README.md file:
 
-<img width="960" alt="image" src="![image](https://github.com/user-attachments/assets/b3bf754a-ecfd-4400-ac15-677c97cc56b5)
-">
+---
 
-Hosted link: https://santosh-2003-sahoo.github.io/App2-Weather-app/
-
+# 🌦️ Weather Data Retrieval and Analysis System
 
 ## Overview
 
-This project is designed to retrieve weather data from the OpenWeatherMap API at configurable intervals, convert temperature values based on user preference, and provide daily weather summaries including additional parameters like humidity and wind speed. The system is built to be robust, easy to set up, and extendable.
+This project retrieves weather data from the OpenWeatherMap API at configurable intervals, converts temperature values based on user preferences, and provides daily weather summaries, including parameters like humidity and wind speed. The system is built to be robust, easy to set up, and extendable.
 
-## Features
+## ✨ Features
 
 - **System Setup:** Initializes and connects to the OpenWeatherMap API using a valid API key.
-- **Data Retrieval:** Simulates API calls at configurable intervals to retrieve and parse weather data for specified locations.
-- **Temperature Conversion:** Converts temperature values from Kelvin to Celsius or Fahrenheit based on user preference.
-- **Daily Weather Summary:** Simulates weather updates over several days and calculates average, maximum, minimum temperatures, and dominant weather conditions.
-- **Additional Parameters:** Supports retrieval and analysis of additional weather parameters such as humidity and wind speed.
-- **5 days Weather Forecast** 
+- **Data Retrieval:** Retrieves weather data for specified locations at configurable intervals.
+- **Temperature Conversion:** Converts temperature values from Kelvin to Celsius or Fahrenheit based on user preferences.
+- **Daily Weather Summary:** Provides daily summaries, including average, maximum, and minimum temperatures, along with dominant weather conditions.
+- **Additional Parameters:** Supports analysis of additional weather parameters such as humidity and wind speed.
+- **5-Day Weather Forecast:** Offers a 5-day weather forecast.
 
-## Design Choices
+## 🛠️ Design Choices
 
 - **Modularity:** The system is divided into distinct modules for initialization, data retrieval, temperature conversion, and summary generation, making it easy to maintain and extend.
-- **Configurability:** API call intervals and temperature units are configurable to allow flexibility.
+- **Configurability:** API call intervals and temperature units are configurable for flexibility.
 - **Extensibility:** Designed to easily incorporate additional weather parameters from the OpenWeatherMap API.
 
-## Requirements
-- Screen 1070*680 minimum
-- Nodejs (optional in case system do not have live server utility)
+## 📋 Requirements
 
-## Getting Started
+- Screen resolution: 1070x680 (minimum)
+- Node.js (optional if the system does not have a live server utility)
+
+## 🚀 Getting Started
 
 ### Prerequisites
 
-- Node.js and npm installed
+- Node.js and npm installed on your system
 
-### Installation
+### 📥 Installation
 
 1. **Clone the Repository**
    ```bash
-   git clone "https://github.com/Santosh-2003-sahoo/App2-Weather-app.git"
-   cd App2-Weather-app
+   git clone https://github.com/mrudulap26/Real-Time-Data-Processing-System-for-Weather-Monitoring.git
    ```
 
 2. **Install Backend Dependencies**
-
    ```bash
    npm install
-   
    ```
-   
-3. **run live server
 
+3. **Run the Live Server**
    ```bash
    npm install http-server -g
-   http-server -p 8080**
+   http-server -p 8080
    ```
 
-## Running Tests
+## ✅ Running Tests
 
-You can add and run tests to ensure everything is working correctly.
-```
-created bt: santosh sahoo
+You can add and run tests to ensure that everything is working correctly.
+
+---
