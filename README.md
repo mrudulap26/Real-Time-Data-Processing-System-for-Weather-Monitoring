@@ -54,6 +54,6 @@ This project retrieves weather data from the OpenWeatherMap API at configurable 
 
 ## ✅ Running Tests
 
-You can add and run tests to ensure that everything is working correctly.
+run the index.py file
 
 ---
