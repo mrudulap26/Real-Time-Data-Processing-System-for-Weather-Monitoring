@@ -1,6 +1,7 @@
 # Weather Data Retrieval and Analysis System
 
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/2c4fc70a-9633-485e-a3d6-aef57359b81a">
+<img width="960" alt="image" src="![image](https://github.com/user-attachments/assets/b3bf754a-ecfd-4400-ac15-677c97cc56b5)
+">
 
 Hosted link: https://santosh-2003-sahoo.github.io/App2-Weather-app/
 
