@@ -1,7 +1,3 @@
-Here’s an enhanced and beautified version of your README.md file:
-
----
-
 # 🌦️ Weather Data Retrieval and Analysis System
 
 ## Overview
